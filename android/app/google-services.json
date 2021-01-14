@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358139798990",
+    "project_id": "dokuapp-7176e",
+    "storage_bucket": "dokuapp-7176e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358139798990:android:897b45c12a727c58cf379f",
+        "android_client_info": {
+          "package_name": "com.dokuapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358139798990-h86i7c15eon5uqb9d3npsmdhkfrepuhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKNkszMo1LcoB704-4mw-7oISy6bOSB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358139798990-h86i7c15eon5uqb9d3npsmdhkfrepuhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
